@@ -3,10 +3,11 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: black; /* Black background */
     color: white; /* White text */
-    background-image: url('dubais.jpg'); /* Background image */
+    background-image: url('uaeflg.png'); /* Background image */
     background-size: cover; /* Ensure the background covers the entire page */
     background-position: center; /* Center the background image */
     background-attachment: fixed; /* Fixed background */
+    
     margin: 0;
     padding: 0;
 }
