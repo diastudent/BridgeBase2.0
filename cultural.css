@@ -1,7 +1,5 @@
 /*General Styling*/
-html {
-    
-}
+html 
 
 body {
     font-family: 'Arial', sans-serif;
@@ -44,6 +42,8 @@ header p {
 .collapsible-container {
     margin-top: 20px;
     text-decoration: none;
+    display: grid;
+    place-content: center;
 }
 
 .collapsible {
